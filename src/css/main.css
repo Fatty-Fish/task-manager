@@ -27,10 +27,8 @@ html,body{
 
 }
 .warpper .container h1{
+	padding-top:50px;
 	margin-bottom: 50px;
-	
-
-
 }
 .warpper .container .addBtn{
 	margin: 0 auto;
